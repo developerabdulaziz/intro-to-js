@@ -20,7 +20,7 @@ var yourLove = 100;
 // console.log(myLove < yourLove);
 // console.log(myLove == yourLove);
 // console.log(myLove < yourLove);
-console.log(myLove != yourLove);
+// console.log(myLove != yourLove);
 
 
 //sorto puroner khetre &&-and ||-or use hoi
