@@ -1,10 +1,16 @@
 var tableLength = 12;
 var tourDestinations = ['coxsbazar', 'nepal', 'vutan', 'paris'];
+
 tourDestinations.indexOf('vutan');
+
 var fourthDestination = tourDestinations[3];
+
 tourDestinations[1] = 'srilanka';
+
 tourDestinations.push('london');
+
 tourDestinations.pop();
+
 if (tourDestinations[1] == 'nepal') {
     console.log('phara ahare ahare');
 }
